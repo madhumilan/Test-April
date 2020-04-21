@@ -1,0 +1,3 @@
+firstBranchFile
+
+Modified in first branch
